@@ -1,0 +1,10 @@
+opencv-contrib-python
+pytest
+retry
+six
+pyaxmlparser
+# rpc client
+hrpc
+
+# https://github.com/androguard/androguard
+androguard

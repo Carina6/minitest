@@ -1,1 +1,2 @@
-# minitest
+MiniTest
+========
